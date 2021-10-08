@@ -1,0 +1,15 @@
+h1
+    {font-family: 'Oswald', sans-serif;
+}
+
+h3
+    {font-family: 'Inconsolata', monospace;
+}
+h5
+{
+    font-family: 'Poppins', sans-serif;
+}
+p, li
+{
+    font-family: 'Merriweather', serif;
+}
